@@ -7,6 +7,7 @@ import java.util.ArrayList;
  * @author <a href="mailto:adam.knapp@instanton.org">Adam Knapp</a>
  * @version 1.0
  */
+@SuppressWarnings("WeakerAccess")
 public class Turtle {
 
   private static final double turtleSize = 5.0;

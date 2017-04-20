@@ -1,0 +1,16 @@
+15
+location00 11.1000 0.0000
+location01 10.1404 4.5148
+location02 7.4273 8.2489
+location03 3.4301 10.5567
+location04 -1.1603 11.0392
+location05 -5.5500 9.6129
+location06 -8.9801 6.5244
+location07 -10.8574 2.3078
+location08 -10.8574 -2.3078
+location09 -8.9801 -6.5244
+location10 -5.5500 -9.6129
+location11 -1.1603 -11.0392
+location12 3.4301 -10.5567
+location13 7.4273 -8.2489
+location14 10.1404 -4.5148
